@@ -2,4 +2,6 @@ if game.PlaceId == 11137575513 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/SnakeHub/main/Games/The%20Chosen%20One'),true))()
 elseif game.PlaceId == 12941479903 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/SnakeHub/main/Games/Bomb%20Click%20Mine'),true))()
+elseif game.PlaceId == 9921763607 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/SnakeHub/main/Games/Crab%20Lab'),true))()
 end
