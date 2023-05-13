@@ -6,4 +6,6 @@ elseif game.PlaceId == 9921763607 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/SnakeHub/main/Games/Crab%20Lab'),true))()
 elseif game.PlaceId == 13171071365 then
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/SnakeHub/main/Games/FEEDING%20TRASH%20TO%20RICH%20PEOPLE%20TYCOON'),true))()
+elseif game.PlaceId == 8034886758 then
+	loadstring(game:HttpGet(('https://github.com/CJFabro8/SnakeHub/blob/main/Games/Punch%20Monster%20Simulator'),true))()
 end
